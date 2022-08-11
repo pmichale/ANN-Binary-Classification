@@ -1,5 +1,7 @@
 # ANN-Binary-Classification
+ANN binary classificator GUI
 
+__________________
 Program je vytvoren v nastroji Matlab App Designer (ANN.mlapp).
 
 Lze nainstalovat jako Matlab App (ANN_VSC_Michalek.mlappinstall).
